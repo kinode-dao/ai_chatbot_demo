@@ -1,0 +1,22 @@
+[
+    {
+        "process_name": "main",
+        "process_wasm_path": "/ai_chatbot_demo.wasm",
+        "on_exit": "Restart",
+        "request_networking": true,
+        "request_capabilities": [
+            "http_server:distro:sys",
+            "main:command_center:appattacc.os",
+            "tg:command_center:appattacc.os",
+            "speech_to_text:command_center:appattacc.os",
+            "openai:command_center:appattacc.os"
+        ],
+        "grant_capabilities": [
+            "main:command_center:appattacc.os",
+            "tg:command_center:appattacc.os",
+            "speech_to_text:command_center:appattacc.os",
+            "openai:command_center:appattacc.os"
+        ],
+        "public": false
+    }
+]
