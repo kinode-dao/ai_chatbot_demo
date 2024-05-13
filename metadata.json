@@ -6,11 +6,11 @@
         "package_name": "ai_chatbot_demo",
         "current_version": "0.1.0",
         "publisher": "appattacc.os",
-        "mirrors": [],
+        "mirrors": ["appattacc.os"],
         "code_hashes": {
-            "0.1.0": ""
+            "0.1.0": "a2998fa284de85cca59e4d7dde1cd1a603b9b242b4a4838efe2960d274f292fd"
         }
     },
-    "external_url": "",
+    "external_url": "https://github.com/kinode-dao/ai_chatbot_demo",
     "animation_url": ""
 }
