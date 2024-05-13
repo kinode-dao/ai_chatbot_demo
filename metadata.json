@@ -1,7 +1,7 @@
 {
     "name": "Ai Chatbot Demo",
     "description": "A simple AI chatbot demo making use of speech to text, groq llm api, and telegram calls.",
-    "image": "",
+    "image": "https://imgur.com/fB1iyuh",
     "properties": {
         "package_name": "ai_chatbot_demo",
         "current_version": "0.1.0",
