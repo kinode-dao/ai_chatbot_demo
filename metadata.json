@@ -5,7 +5,7 @@
     "properties": {
         "package_name": "ai_chatbot_demo",
         "current_version": "0.1.0",
-        "publisher": "template.os",
+        "publisher": "appattacc.os",
         "mirrors": [],
         "code_hashes": {
             "0.1.0": ""
