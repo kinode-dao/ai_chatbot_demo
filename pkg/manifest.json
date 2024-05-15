@@ -2,7 +2,7 @@
     {
         "process_name": "main",
         "process_wasm_path": "/ai_chatbot_demo.wasm",
-        "on_exit": "Restart",
+        "on_exit": "None",
         "request_networking": true,
         "request_capabilities": [
             "http_server:distro:sys",
